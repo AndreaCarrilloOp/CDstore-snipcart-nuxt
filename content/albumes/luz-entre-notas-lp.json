@@ -1,0 +1,18 @@
+{
+  "slug": "luz-entre-notas-lp",
+  "titulo": "Luz entre notas",
+  "artistaSlug": "lucas-ferrer",
+  "generoSlug": "clasica",
+  "formato": "LP",
+  "anio": 2022,
+  "precio": 38,
+  "descripcion": "Luz entre notas es una edición LP de Lucas Ferrer, una propuesta de clásica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/luz-entre-notas-lp.webp",
+  "pistas": [
+    "A media voz",
+    "Bajo la lluvia",
+    "En otra frecuencia",
+    "La respuesta",
+    "Los días futuros"
+  ]
+}

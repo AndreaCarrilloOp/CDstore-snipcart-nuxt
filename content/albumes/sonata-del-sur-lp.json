@@ -1,0 +1,18 @@
+{
+  "slug": "sonata-del-sur-lp",
+  "titulo": "Sonata del sur",
+  "artistaSlug": "lucas-ferrer",
+  "generoSlug": "clasica",
+  "formato": "LP",
+  "anio": 2016,
+  "precio": 30,
+  "descripcion": "Sonata del sur es una edición LP de Lucas Ferrer, una propuesta de clásica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/sonata-del-sur-lp.webp",
+  "pistas": [
+    "Umbral",
+    "Cartas sin enviar",
+    "Entre los árboles",
+    "El último tren",
+    "El eco final"
+  ]
+}

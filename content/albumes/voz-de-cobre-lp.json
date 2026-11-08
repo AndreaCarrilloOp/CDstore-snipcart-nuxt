@@ -1,0 +1,18 @@
+{
+  "slug": "voz-de-cobre-lp",
+  "titulo": "Voz de cobre",
+  "artistaSlug": "nora-luna",
+  "generoSlug": "pop",
+  "formato": "LP",
+  "anio": 2020,
+  "precio": 26,
+  "descripcion": "Voz de cobre es una edición LP de Nora Luna, una propuesta de pop con influencias del soul y un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/voz-de-cobre-lp.webp",
+  "pistas": [
+    "Pasos lentos",
+    "Cartas sin enviar",
+    "Sobre el papel",
+    "Ritmo de invierno",
+    "Final abierto"
+  ]
+}

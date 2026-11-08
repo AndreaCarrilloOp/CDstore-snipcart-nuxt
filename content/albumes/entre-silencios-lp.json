@@ -1,0 +1,18 @@
+{
+  "slug": "entre-silencios-lp",
+  "titulo": "Entre silencios",
+  "artistaSlug": "trio-meridiano",
+  "generoSlug": "jazz",
+  "formato": "LP",
+  "anio": 2018,
+  "precio": 30,
+  "descripcion": "Entre silencios es una edición LP de Trío Meridiano, una propuesta de jazz con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/entre-silencios-lp.webp",
+  "pistas": [
+    "Pasos lentos",
+    "Un lugar seguro",
+    "Líneas de agua",
+    "El último tren",
+    "Bajo el mismo cielo"
+  ]
+}

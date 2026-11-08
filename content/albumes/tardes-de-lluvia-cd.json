@@ -1,0 +1,18 @@
+{
+  "slug": "tardes-de-lluvia-cd",
+  "titulo": "Tardes de lluvia",
+  "artistaSlug": "bosque-abierto",
+  "generoSlug": "indie",
+  "formato": "CD",
+  "anio": 2023,
+  "precio": 26,
+  "descripcion": "Tardes de lluvia es una edición CD de Bosque Abierto, una propuesta de indie con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/tardes-de-lluvia-cd.webp",
+  "pistas": [
+    "A media voz",
+    "Las horas pequeñas",
+    "Sobre el papel",
+    "Tierra adentro",
+    "A contraluz"
+  ]
+}

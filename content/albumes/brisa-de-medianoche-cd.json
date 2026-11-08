@@ -1,0 +1,18 @@
+{
+  "slug": "brisa-de-medianoche-cd",
+  "titulo": "Brisa de medianoche",
+  "artistaSlug": "alma-cobre",
+  "generoSlug": "pop",
+  "formato": "CD",
+  "anio": 2023,
+  "precio": 24,
+  "descripcion": "Brisa de medianoche es una edición CD de Alma Cobre, una propuesta de pop con influencias del soul y un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/brisa-de-medianoche-cd.webp",
+  "pistas": [
+    "A la distancia",
+    "Las horas pequeñas",
+    "Tiempo compartido",
+    "El último tren",
+    "Lo que queda"
+  ]
+}

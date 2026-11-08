@@ -1,0 +1,18 @@
+{
+  "slug": "verano-fugaz-lp",
+  "titulo": "Verano fugaz",
+  "artistaSlug": "casa-niebla",
+  "generoSlug": "indie",
+  "formato": "LP",
+  "anio": 2020,
+  "precio": 32,
+  "descripcion": "Verano fugaz es una edición LP de Casa Niebla, una propuesta de indie con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/verano-fugaz-lp.webp",
+  "pistas": [
+    "El encuentro",
+    "Un lugar seguro",
+    "Cielo de cobre",
+    "Luces de paso",
+    "El eco final"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "ruido-de-fondo-lp",
+  "titulo": "Ruido de fondo",
+  "artistaSlug": "frontera-sur",
+  "generoSlug": "rock",
+  "formato": "LP",
+  "anio": 2016,
+  "precio": 24,
+  "descripcion": "Ruido de fondo es una edición LP de Frontera Sur, una propuesta de rock con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/ruido-de-fondo-lp.webp",
+  "pistas": [
+    "La calle vacía",
+    "Brújula interior",
+    "Mareas abiertas",
+    "La ruta larga",
+    "Regreso a casa"
+  ]
+}

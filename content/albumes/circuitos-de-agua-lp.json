@@ -1,0 +1,18 @@
+{
+  "slug": "circuitos-de-agua-lp",
+  "titulo": "Circuitos de agua",
+  "artistaSlug": "circuito-norte",
+  "generoSlug": "electronica",
+  "formato": "LP",
+  "anio": 2024,
+  "precio": 28,
+  "descripcion": "Circuitos de agua es una edición LP de Circuito Norte, una propuesta de electrónica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/circuitos-de-agua-lp.webp",
+  "pistas": [
+    "Umbral",
+    "Un lugar seguro",
+    "Sombras de verano",
+    "Más allá del puente",
+    "Coda"
+  ]
+}

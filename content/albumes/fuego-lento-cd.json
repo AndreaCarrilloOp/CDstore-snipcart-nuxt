@@ -1,0 +1,18 @@
+{
+  "slug": "fuego-lento-cd",
+  "titulo": "Fuego lento",
+  "artistaSlug": "alma-cobre",
+  "generoSlug": "pop",
+  "formato": "CD",
+  "anio": 2023,
+  "precio": 20,
+  "descripcion": "Fuego lento es una edición CD de Alma Cobre, una propuesta de pop con influencias del soul y un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/fuego-lento-cd.webp",
+  "pistas": [
+    "A la distancia",
+    "Punto de partida",
+    "Señales del norte",
+    "Más allá del puente",
+    "Los días futuros"
+  ]
+}

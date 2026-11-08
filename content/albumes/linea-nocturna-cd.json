@@ -1,0 +1,18 @@
+{
+  "slug": "linea-nocturna-cd",
+  "titulo": "Línea nocturna",
+  "artistaSlug": "pulso-azul",
+  "generoSlug": "electronica",
+  "formato": "CD",
+  "anio": 2015,
+  "precio": 26,
+  "descripcion": "Línea nocturna es una edición CD de Pulso Azul, una propuesta de electrónica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/linea-nocturna-cd.webp",
+  "pistas": [
+    "Umbral",
+    "Días transparentes",
+    "Fragmentos de abril",
+    "Ritmo de invierno",
+    "Regreso a casa"
+  ]
+}

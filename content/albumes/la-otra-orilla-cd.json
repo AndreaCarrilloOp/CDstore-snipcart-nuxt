@@ -1,0 +1,18 @@
+{
+  "slug": "la-otra-orilla-cd",
+  "titulo": "La otra orilla",
+  "artistaSlug": "los-circulos",
+  "generoSlug": "rock",
+  "formato": "CD",
+  "anio": 2019,
+  "precio": 18,
+  "descripcion": "La otra orilla es una edición CD de Los Círculos, una propuesta de rock con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/la-otra-orilla-cd.webp",
+  "pistas": [
+    "Antes del amanecer",
+    "Ruido de fondo",
+    "Sobre el papel",
+    "Luces de paso",
+    "A contraluz"
+  ]
+}

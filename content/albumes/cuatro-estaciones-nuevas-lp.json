@@ -1,0 +1,18 @@
+{
+  "slug": "cuatro-estaciones-nuevas-lp",
+  "titulo": "Cuatro estaciones nuevas",
+  "artistaSlug": "lucas-ferrer",
+  "generoSlug": "clasica",
+  "formato": "LP",
+  "anio": 2022,
+  "precio": 34,
+  "descripcion": "Cuatro estaciones nuevas es una edición LP de Lucas Ferrer, una propuesta de clásica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/cuatro-estaciones-nuevas-lp.webp",
+  "pistas": [
+    "Un nuevo aire",
+    "Las horas pequeñas",
+    "Mareas abiertas",
+    "Ritmo de invierno",
+    "Amanecer lento"
+  ]
+}

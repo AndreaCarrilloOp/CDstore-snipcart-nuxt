@@ -1,0 +1,18 @@
+{
+  "slug": "azul-de-otono-cd",
+  "titulo": "Azul de otoño",
+  "artistaSlug": "elena-vargas",
+  "generoSlug": "jazz",
+  "formato": "CD",
+  "anio": 2015,
+  "precio": 20,
+  "descripcion": "Azul de otoño es una edición CD de Elena Vargas, una propuesta de jazz con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/azul-de-otono-cd.webp",
+  "pistas": [
+    "La primera señal",
+    "La última ventana",
+    "Sombras de verano",
+    "La respuesta",
+    "Bajo el mismo cielo"
+  ]
+}

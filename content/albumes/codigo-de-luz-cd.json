@@ -1,0 +1,18 @@
+{
+  "slug": "codigo-de-luz-cd",
+  "titulo": "Código de luz",
+  "artistaSlug": "pulso-azul",
+  "generoSlug": "electronica",
+  "formato": "CD",
+  "anio": 2015,
+  "precio": 22,
+  "descripcion": "Código de luz es una edición CD de Pulso Azul, una propuesta de electrónica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/codigo-de-luz-cd.webp",
+  "pistas": [
+    "A media voz",
+    "La última ventana",
+    "Líneas de agua",
+    "Luces de paso",
+    "Lo que queda"
+  ]
+}

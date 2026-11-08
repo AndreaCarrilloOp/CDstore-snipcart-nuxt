@@ -1,0 +1,18 @@
+{
+  "slug": "notas-del-puerto-lp",
+  "titulo": "Notas del puerto",
+  "artistaSlug": "trio-meridiano",
+  "generoSlug": "jazz",
+  "formato": "LP",
+  "anio": 2024,
+  "precio": 22,
+  "descripcion": "Notas del puerto es una edición LP de Trío Meridiano, una propuesta de jazz con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/notas-del-puerto-lp.webp",
+  "pistas": [
+    "Luz tenue",
+    "Una ciudad dormida",
+    "Tiempo compartido",
+    "Voces del sur",
+    "A contraluz"
+  ]
+}

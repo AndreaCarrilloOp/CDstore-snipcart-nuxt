@@ -1,0 +1,18 @@
+{
+  "slug": "a-tiempo-cd",
+  "titulo": "A tiempo",
+  "artistaSlug": "alma-cobre",
+  "generoSlug": "pop",
+  "formato": "CD",
+  "anio": 2017,
+  "precio": 28,
+  "descripcion": "A tiempo es una edición CD de Alma Cobre, una propuesta de pop con influencias del soul y un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/a-tiempo-cd.webp",
+  "pistas": [
+    "Preludio",
+    "Cartas sin enviar",
+    "En otra frecuencia",
+    "La ruta larga",
+    "Coda"
+  ]
+}

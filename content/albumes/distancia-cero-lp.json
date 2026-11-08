@@ -1,0 +1,18 @@
+{
+  "slug": "distancia-cero-lp",
+  "titulo": "Distancia cero",
+  "artistaSlug": "frontera-sur",
+  "generoSlug": "rock",
+  "formato": "LP",
+  "anio": 2022,
+  "precio": 32,
+  "descripcion": "Distancia cero es una edición LP de Frontera Sur, una propuesta de rock con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/distancia-cero-lp.webp",
+  "pistas": [
+    "Luz tenue",
+    "Música en la plaza",
+    "Después de medianoche",
+    "La ruta larga",
+    "Los días futuros"
+  ]
+}

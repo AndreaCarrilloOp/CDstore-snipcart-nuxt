@@ -1,0 +1,18 @@
+{
+  "slug": "sesion-abierta-lp",
+  "titulo": "Sesión abierta",
+  "artistaSlug": "trio-meridiano",
+  "generoSlug": "jazz",
+  "formato": "LP",
+  "anio": 2018,
+  "precio": 26,
+  "descripcion": "Sesión abierta es una edición LP de Trío Meridiano, una propuesta de jazz con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/sesion-abierta-lp.webp",
+  "pistas": [
+    "Antes del amanecer",
+    "Un lugar seguro",
+    "Después de medianoche",
+    "La respuesta",
+    "Sin despedidas"
+  ]
+}

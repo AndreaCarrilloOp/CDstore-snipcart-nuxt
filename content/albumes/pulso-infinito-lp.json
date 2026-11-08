@@ -1,0 +1,18 @@
+{
+  "slug": "pulso-infinito-lp",
+  "titulo": "Pulso infinito",
+  "artistaSlug": "circuito-norte",
+  "generoSlug": "electronica",
+  "formato": "LP",
+  "anio": 2018,
+  "precio": 36,
+  "descripcion": "Pulso infinito es una edición LP de Circuito Norte, una propuesta de electrónica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/pulso-infinito-lp.webp",
+  "pistas": [
+    "Preludio",
+    "La última ventana",
+    "Después de medianoche",
+    "Segundo intento",
+    "El eco final"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "luces-de-madrugada-cd",
+  "titulo": "Luces de madrugada",
+  "artistaSlug": "elena-vargas",
+  "generoSlug": "jazz",
+  "formato": "CD",
+  "anio": 2015,
+  "precio": 16,
+  "descripcion": "Luces de madrugada es una edición CD de Elena Vargas, una propuesta de jazz con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/luces-de-madrugada-cd.webp",
+  "pistas": [
+    "Desde el inicio",
+    "Ecos en la estación",
+    "Días de cristal",
+    "La ruta larga",
+    "Amanecer lento"
+  ]
+}

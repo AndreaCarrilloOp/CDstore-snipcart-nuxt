@@ -1,0 +1,18 @@
+{
+  "slug": "raices-de-seda-lp",
+  "titulo": "Raíces de seda",
+  "artistaSlug": "nora-luna",
+  "generoSlug": "pop",
+  "formato": "LP",
+  "anio": 2026,
+  "precio": 34,
+  "descripcion": "Raíces de seda es una edición LP de Nora Luna, una propuesta de pop con influencias del soul y un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/raices-de-seda-lp.webp",
+  "pistas": [
+    "La primera señal",
+    "Las horas pequeñas",
+    "Entre los árboles",
+    "Luces de paso",
+    "Final abierto"
+  ]
+}

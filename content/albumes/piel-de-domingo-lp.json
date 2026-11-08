@@ -1,0 +1,18 @@
+{
+  "slug": "piel-de-domingo-lp",
+  "titulo": "Piel de domingo",
+  "artistaSlug": "nora-luna",
+  "generoSlug": "pop",
+  "formato": "LP",
+  "anio": 2026,
+  "precio": 30,
+  "descripcion": "Piel de domingo es una edición LP de Nora Luna, una propuesta de pop con influencias del soul y un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/piel-de-domingo-lp.webp",
+  "pistas": [
+    "Pasos lentos",
+    "Días transparentes",
+    "En otra frecuencia",
+    "Más allá del puente",
+    "Amanecer lento"
+  ]
+}

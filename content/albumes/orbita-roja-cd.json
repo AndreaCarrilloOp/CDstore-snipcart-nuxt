@@ -1,0 +1,18 @@
+{
+  "slug": "orbita-roja-cd",
+  "titulo": "Órbita roja",
+  "artistaSlug": "los-circulos",
+  "generoSlug": "rock",
+  "formato": "CD",
+  "anio": 2025,
+  "precio": 26,
+  "descripcion": "Órbita roja es una edición CD de Los Círculos, una propuesta de rock con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/orbita-roja-cd.webp",
+  "pistas": [
+    "El encuentro",
+    "Ruido de fondo",
+    "Días de cristal",
+    "Tierra adentro",
+    "Regreso a casa"
+  ]
+}

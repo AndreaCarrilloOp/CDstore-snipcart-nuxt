@@ -1,0 +1,18 @@
+{
+  "slug": "una-casa-lejos-cd",
+  "titulo": "Una casa lejos",
+  "artistaSlug": "bosque-abierto",
+  "generoSlug": "indie",
+  "formato": "CD",
+  "anio": 2023,
+  "precio": 30,
+  "descripcion": "Una casa lejos es una edición CD de Bosque Abierto, una propuesta de indie con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/una-casa-lejos-cd.webp",
+  "pistas": [
+    "Luz tenue",
+    "Brújula interior",
+    "Señales del norte",
+    "Segundo intento",
+    "Sin despedidas"
+  ]
+}

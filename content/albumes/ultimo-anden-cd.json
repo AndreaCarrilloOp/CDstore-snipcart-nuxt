@@ -1,0 +1,18 @@
+{
+  "slug": "ultimo-anden-cd",
+  "titulo": "Último andén",
+  "artistaSlug": "los-circulos",
+  "generoSlug": "rock",
+  "formato": "CD",
+  "anio": 2019,
+  "precio": 22,
+  "descripcion": "Último andén es una edición CD de Los Círculos, una propuesta de rock con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/ultimo-anden-cd.webp",
+  "pistas": [
+    "Un nuevo aire",
+    "Música en la plaza",
+    "Fragmentos de abril",
+    "Más allá del puente",
+    "Otra estación"
+  ]
+}

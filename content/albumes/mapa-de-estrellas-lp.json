@@ -1,0 +1,18 @@
+{
+  "slug": "mapa-de-estrellas-lp",
+  "titulo": "Mapa de estrellas",
+  "artistaSlug": "casa-niebla",
+  "generoSlug": "indie",
+  "formato": "LP",
+  "anio": 2026,
+  "precio": 36,
+  "descripcion": "Mapa de estrellas es una edición LP de Casa Niebla, una propuesta de indie con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/mapa-de-estrellas-lp.webp",
+  "pistas": [
+    "Un nuevo aire",
+    "Punto de partida",
+    "Sombras de verano",
+    "El último tren",
+    "Final abierto"
+  ]
+}

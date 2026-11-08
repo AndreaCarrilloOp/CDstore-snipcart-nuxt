@@ -1,0 +1,18 @@
+{
+  "slug": "fotografias-del-mar-lp",
+  "titulo": "Fotografías del mar",
+  "artistaSlug": "casa-niebla",
+  "generoSlug": "indie",
+  "formato": "LP",
+  "anio": 2026,
+  "precio": 40,
+  "descripcion": "Fotografías del mar es una edición LP de Casa Niebla, una propuesta de indie con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/fotografias-del-mar-lp.webp",
+  "pistas": [
+    "Preludio",
+    "Ecos en la estación",
+    "Sobre el papel",
+    "Voces del sur",
+    "Regreso a casa"
+  ]
+}

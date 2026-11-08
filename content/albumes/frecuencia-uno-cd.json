@@ -1,0 +1,18 @@
+{
+  "slug": "frecuencia-uno-cd",
+  "titulo": "Frecuencia uno",
+  "artistaSlug": "pulso-azul",
+  "generoSlug": "electronica",
+  "formato": "CD",
+  "anio": 2021,
+  "precio": 30,
+  "descripcion": "Frecuencia uno es una edición CD de Pulso Azul, una propuesta de electrónica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/frecuencia-uno-cd.webp",
+  "pistas": [
+    "La primera señal",
+    "Bajo la lluvia",
+    "Fragmentos de abril",
+    "Tierra adentro",
+    "Amanecer lento"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "horizonte-sintetico-lp",
+  "titulo": "Horizonte sintético",
+  "artistaSlug": "circuito-norte",
+  "generoSlug": "electronica",
+  "formato": "LP",
+  "anio": 2018,
+  "precio": 32,
+  "descripcion": "Horizonte sintético es una edición LP de Circuito Norte, una propuesta de electrónica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/horizonte-sintetico-lp.webp",
+  "pistas": [
+    "La calle vacía",
+    "Una ciudad dormida",
+    "Cielo de cobre",
+    "Segundo intento",
+    "Coda"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "ecos-de-camara-cd",
+  "titulo": "Ecos de cámara",
+  "artistaSlug": "cuarteto-aureo",
+  "generoSlug": "clasica",
+  "formato": "CD",
+  "anio": 2019,
+  "precio": 28,
+  "descripcion": "Ecos de cámara es una edición CD de Cuarteto Áureo, una propuesta de clásica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/ecos-de-camara-cd.webp",
+  "pistas": [
+    "El encuentro",
+    "Brújula interior",
+    "Entre los árboles",
+    "La respuesta",
+    "Coda"
+  ]
+}

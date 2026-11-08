@@ -1,0 +1,23 @@
+{
+  "name": "songlist-tienda-musica-eif511",
+  "version": "1.18.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/content": "^3.16.2",
+    "better-sqlite3": "^13.0.3",
+    "nuxt": "^4.5.2",
+    "vue": "^3.5.40",
+    "vue-router": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=22.19.0"
+  }
+}

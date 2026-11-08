@@ -1,0 +1,18 @@
+{
+  "slug": "suite-del-alba-cd",
+  "titulo": "Suite del alba",
+  "artistaSlug": "cuarteto-aureo",
+  "generoSlug": "clasica",
+  "formato": "CD",
+  "anio": 2019,
+  "precio": 24,
+  "descripcion": "Suite del alba es una edición CD de Cuarteto Áureo, una propuesta de clásica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/suite-del-alba-cd.webp",
+  "pistas": [
+    "Desde el inicio",
+    "La última ventana",
+    "Cielo de cobre",
+    "Voces del sur",
+    "Final abierto"
+  ]
+}

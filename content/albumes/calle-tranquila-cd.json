@@ -1,0 +1,18 @@
+{
+  "slug": "calle-tranquila-cd",
+  "titulo": "Calle tranquila",
+  "artistaSlug": "bosque-abierto",
+  "generoSlug": "indie",
+  "formato": "CD",
+  "anio": 2017,
+  "precio": 34,
+  "descripcion": "Calle tranquila es una edición CD de Bosque Abierto, una propuesta de indie con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/calle-tranquila-cd.webp",
+  "pistas": [
+    "La calle vacía",
+    "Música en la plaza",
+    "Días de cristal",
+    "Voces del sur",
+    "El camino"
+  ]
+}

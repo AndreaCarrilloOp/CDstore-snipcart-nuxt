@@ -1,0 +1,18 @@
+{
+  "slug": "cartas-al-viento-cd",
+  "titulo": "Cartas al viento",
+  "artistaSlug": "cuarteto-aureo",
+  "generoSlug": "clasica",
+  "formato": "CD",
+  "anio": 2025,
+  "precio": 32,
+  "descripcion": "Cartas al viento es una edición CD de Cuarteto Áureo, una propuesta de clásica con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/cartas-al-viento-cd.webp",
+  "pistas": [
+    "Antes del amanecer",
+    "Brújula interior",
+    "En otra frecuencia",
+    "Tierra adentro",
+    "Los días futuros"
+  ]
+}

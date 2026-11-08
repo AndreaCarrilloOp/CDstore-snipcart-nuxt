@@ -1,0 +1,18 @@
+{
+  "slug": "rio-interior-cd",
+  "titulo": "Río interior",
+  "artistaSlug": "elena-vargas",
+  "generoSlug": "jazz",
+  "formato": "CD",
+  "anio": 2021,
+  "precio": 24,
+  "descripcion": "Río interior es una edición CD de Elena Vargas, una propuesta de jazz con un recorrido musical expresivo. Producto ficticio para demostración académica.",
+  "portada": "/covers/rio-interior-cd.webp",
+  "pistas": [
+    "A la distancia",
+    "Música en la plaza",
+    "Líneas de agua",
+    "Ritmo de invierno",
+    "A contraluz"
+  ]
+}
